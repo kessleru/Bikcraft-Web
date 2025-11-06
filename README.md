@@ -20,39 +20,33 @@ Bikcraft é um projeto de estudos de desenvolvimento web que apresenta um site c
 
 Acesse o projeto online: **[https://kessleru.github.io/Bikcraft-Web/](https://kessleru.github.io/Bikcraft-Web/)**
 
-## ✨ Funcionalidades
-
-- **Catálogo de Bicicletas**: Visualize os modelos Magic Might, Nimbus Stark e Nubula Cosmic
-- **Planos de Seguro**: Opções Prata e Ouro com diferentes coberturas
-- **Página de Contato**: Formulário para orçamento e informações de contato
-- **Termos e Condições**: Página completa com termos de uso
-- **Design Responsivo**: Adaptado para diferentes tamanhos de tela
-
-## 🛠️ Tecnologias
-
-- **HTML5**: Estrutura semântica e acessível
-- **CSS3**: Estilização moderna com variáveis CSS e grid/flexbox
-- **Google Fonts**: Tipografia com Poppins, Roboto e Merriweather
-
 ## 📁 Estrutura do Projeto
 
 ```
 Bikcraft-Web/
 ├── css/
+│   ├── bicilcetas/
+│   │   └── bicilcetas-lista.css
+│   ├── global/
+│   │   ├── footer.css
+│   │   ├── global.css
+│   │   └── header.css
+│   ├── home/
+│   │   ├── depoimento.css
+│   │   ├── introducao.css
+│   │   ├── parceiros.css
+│   │   └── tecnologia.css
+│   ├── seguros/
+│   │   └── seguros.css
+│   ├── termos/
+│   │   └── termos.css
+│   ├── utilidades/
+│   │   ├── componentes.css
+│   │   ├── cores.css
+│   │   └── tipografia.css
 │   └── style.css
 ├── img/
-│   ├── bicicletas/
-│   ├── fotos/
-│   ├── icones/
-│   ├── parceiros/
-│   └── redes/
-├── bicicletas/
-│   ├── magic.html
-│   ├── nimbus.html
-│   └── nubula.html
 ├── index.html
-├── contato.html
-├── seguros.html
 └── termos.html
 ```
 
@@ -64,17 +58,6 @@ Bikcraft-Web/
 - Componentes reutilizáveis
 - Boa estrutura semântica para SEO
 
-## 🚀 Como Executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/KesslerU/Bikcraft-Web.git
-```
-
-2. Abra o arquivo `index.html` em seu navegador
-
-Ou simplesmente acesse a [versão online](https://kessleru.github.io/Bikcraft-Web/)
-
 ## 📚 Aprendizados
 
 Este projeto foi desenvolvido como parte dos estudos em desenvolvimento web front-end, focando em:
@@ -84,10 +67,6 @@ Este projeto foi desenvolvido como parte dos estudos em desenvolvimento web fron
 - Responsive design
 - Boas práticas de UI/UX
 - Acessibilidade web
-
-## 📄 Licença
-
-Este é um projeto de estudos. Bikcraft © Alguns direitos reservados.
 
 ---
 
