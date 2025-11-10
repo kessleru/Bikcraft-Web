@@ -43,7 +43,7 @@ Acesse o projeto online: **[https://kessleru.github.io/Bikcraft-Web/](https://ke
   - ![#2E2E2E](https://img.shields.io/badge/-%232E2E2E-2E2E2E?style=flat-square)
   - ![#111111](https://img.shields.io/badge/-%23111111-111111?style=flat-square)
   - ![#000000](https://img.shields.io/badge/-%23000000-000000?style=flat-square)
-- **Gradiente**: ![#FFBF00](https://img.shields.io/badge/-%23FFBF00-FFBF00?style=flat-square) → ![#F2A50C](https://img.shields.io/badge/-%23F2A50C-F2A50C?style=flat-square)
+- **Gradiente**: ![#FFBF00](https://img.shields.io/badge/-%23FFBF00-FFBF00?style=flat-square)![#F2A50C](https://img.shields.io/badge/-%23F2A50C-F2A50C?style=flat-square)
 
 ### Tipografia
 
