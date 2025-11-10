@@ -28,22 +28,22 @@ Acesse o projeto online: **[https://kessleru.github.io/Bikcraft-Web/](https://ke
 
 ### Cores
 
-- **Primária**: ![#FFBB00](https://via.placeholder.com/20/FFBB00/FFBB00?text=+) `#FFBB00` (Amarelo Bikcraft)
-- **Secundária**: ![#000000](https://via.placeholder.com/20/000000/000000?text=+) `#000000`, ![#111111](https://via.placeholder.com/20/111111/111111?text=+) `#111111` (Preto e cinza escuro)
+- **Primária**: ![#FFBB00](https://img.shields.io/badge/-%23FFBB00-FFBB00?style=flat-square) `#FFBB00` (Amarelo Bikcraft)
+- **Secundária**: ![#000000](https://img.shields.io/badge/-%23000000-000000?style=flat-square) `#000000`, ![#111111](https://img.shields.io/badge/-%23111111-111111?style=flat-square) `#111111` (Preto e cinza escuro)
 - **Neutras**: Escala de cinzas (12 variações)
-  - ![#F7F7F7](https://via.placeholder.com/20/F7F7F7/F7F7F7?text=+) `#F7F7F7`
-  - ![#EDEDED](https://via.placeholder.com/20/EDEDED/EDEDED?text=+) `#EDEDED`
-  - ![#DEDEDE](https://via.placeholder.com/20/DEDEDE/DEDEDE?text=+) `#DEDEDE`
-  - ![#CCCCCC](https://via.placeholder.com/20/CCCCCC/CCCCCC?text=+) `#CCCCCC`
-  - ![#B2B2B2](https://via.placeholder.com/20/B2B2B2/B2B2B2?text=+) `#B2B2B2`
-  - ![#9C9C9C](https://via.placeholder.com/20/9C9C9C/9C9C9C?text=+) `#9C9C9C`
-  - ![#717171](https://via.placeholder.com/20/717171/717171?text=+) `#717171`
-  - ![#595959](https://via.placeholder.com/20/595959/595959?text=+) `#595959`
-  - ![#404040](https://via.placeholder.com/20/404040/404040?text=+) `#404040`
-  - ![#2E2E2E](https://via.placeholder.com/20/2E2E2E/2E2E2E?text=+) `#2E2E2E`
-  - ![#111111](https://via.placeholder.com/20/111111/111111?text=+) `#111111`
-  - ![#000000](https://via.placeholder.com/20/000000/000000?text=+) `#000000`
-- **Gradiente**: ![#FFBF00](https://via.placeholder.com/20/FFBF00/FFBF00?text=+) `#FFBF00` → ![#F2A50C](https://via.placeholder.com/20/F2A50C/F2A50C?text=+) `#F2A50C`
+  - ![#F7F7F7](https://img.shields.io/badge/-%23F7F7F7-F7F7F7?style=flat-square) `#F7F7F7`
+  - ![#EDEDED](https://img.shields.io/badge/-%23EDEDED-EDEDED?style=flat-square) `#EDEDED`
+  - ![#DEDEDE](https://img.shields.io/badge/-%23DEDEDE-DEDEDE?style=flat-square) `#DEDEDE`
+  - ![#CCCCCC](https://img.shields.io/badge/-%23CCCCCC-CCCCCC?style=flat-square) `#CCCCCC`
+  - ![#B2B2B2](https://img.shields.io/badge/-%23B2B2B2-B2B2B2?style=flat-square) `#B2B2B2`
+  - ![#9C9C9C](https://img.shields.io/badge/-%23009C9C9C-9C9C9C?style=flat-square) `#9C9C9C`
+  - ![#717171](https://img.shields.io/badge/-%23717171-717171?style=flat-square) `#717171`
+  - ![#595959](https://img.shields.io/badge/-%23595959-595959?style=flat-square) `#595959`
+  - ![#404040](https://img.shields.io/badge/-%23404040-404040?style=flat-square) `#404040`
+  - ![#2E2E2E](https://img.shields.io/badge/-%232E2E2E-2E2E2E?style=flat-square) `#2E2E2E`
+  - ![#111111](https://img.shields.io/badge/-%23111111-111111?style=flat-square) `#111111`
+  - ![#000000](https://img.shields.io/badge/-%23000000-000000?style=flat-square) `#000000`
+- **Gradiente**: ![#FFBF00](https://img.shields.io/badge/-%23FFBF00-FFBF00?style=flat-square) `#FFBF00` → ![#F2A50C](https://img.shields.io/badge/-%23F2A50C-F2A50C?style=flat-square) `#F2A50C`
 
 ### Tipografia
 
