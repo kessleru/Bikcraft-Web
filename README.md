@@ -58,6 +58,30 @@ Acesse o projeto online: **[https://kessleru.github.io/Bikcraft-Web/](https://ke
 - **Flexbox**: Para alinhamento e distribuição
 - **Breakpoints**: Mobile-first com media queries
 - **Espaçamento**: Sistema baseado em múltiplos de 20px
+
+## ⚡ Otimizações de Performance
+
+O projeto implementa diversas técnicas modernas de otimização para garantir carregamento rápido e excelente experiência do usuário:
+
+### 🖼️ Otimização de Imagens
+- **Lazy Loading**: Imagens fora da viewport inicial carregam sob demanda (`loading="lazy"`)
+- **Decodificação Assíncrona**: Processamento de imagens não bloqueia o thread principal (`decoding="async"`)
+- **Priority Hints**: Imagem hero marcada com `fetchpriority="high"` para carregamento prioritário
+- **Picture Element**: Imagens responsivas com diferentes resoluções para dispositivos móveis
+
+### 🔤 Otimização de Fontes
+- **Carregamento Assíncrono**: Fontes do Google Fonts carregadas de forma não-bloqueante
+- **DNS Prefetch**: `preconnect` para Google Fonts APIs reduz latência de conexão
+- **Media Print Trick**: Fontes inicialmente carregadas como `media="print"` e depois aplicadas via JavaScript
+- **Fallback NoScript**: Garantia de carregamento para usuários sem JavaScript
+
+### 🎯 Resultado de Performance
+- ✅ Redução significativa do caminho crítico de renderização
+- ✅ First Contentful Paint (FCP) otimizado
+- ✅ Largest Contentful Paint (LCP) melhorado
+- ✅ Cumulative Layout Shift (CLS) minimizado
+- ✅ Score alto no PageSpeed Insights
+
 ---
 
 ⭐ **Desenvolvido como projeto de estudos em desenvolvimento web**
