@@ -10,7 +10,13 @@
       content="Bicicletas elétricas de alta precisão e qualidade, feitas sob medida para o cliente. Explore o mundo na sua velocidade com a Bikcraft."
     />
     <link rel="preload" href="./css/style.css" as="style" />
-    <link rel="stylesheet" href="./css/style.css" />
+    <link
+      rel="stylesheet"
+      href="./css/style.css"
+      media="print"
+      onload="this.media='all'"
+    />
+    <noscript><link rel="stylesheet" href="./css/style.css" /></noscript>
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -64,6 +70,7 @@
             height="1600"
             alt="Bicicleta elétrica preta."
             fetchpriority="high"
+            decoding="async"
           />
         </picture>
       </div>
@@ -174,6 +181,7 @@
             height="1920"
             alt=""
             loading="lazy"
+            decoding="async"
           />
         </div>
       </div>
@@ -268,6 +276,7 @@
           height="1360"
           alt="Pessoa pedalando uma bicicleta Bikcraft"
           loading="lazy"
+          decoding="async"
         />
       </div>
       <div class="depoimento-conteudo">
