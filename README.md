@@ -58,29 +58,6 @@ Acesse o projeto online: **[https://kessleru.github.io/Bikcraft-Web/](https://ke
 - **Flexbox**: Para alinhamento e distribuição
 - **Breakpoints**: Mobile-first com media queries
 - **Espaçamento**: Sistema baseado em múltiplos de 20px
-
-## ⚡ Otimizações de Performance
-
-### Técnicas Aplicadas
-
-✅ **CSS Bundling + Minificação**
-
-- 23 módulos → 1 arquivo
-- 25KB → 19KB (24% menor)
-- 1 requisição HTTP vs 24
-
-✅ **Lazy Loading Inteligente**
-
-- `loading="lazy"` em imagens abaixo da dobra
-- `fetchpriority="high"` em imagens LCP
-- Economia de ~2MB no carregamento inicial
-
-✅ **Resource Hints**
-
-- `<link rel="preload">` para CSS crítico
-- `<link rel="preconnect">` para Google Fonts
-- DNS-prefetch reduz latência em 200-300ms
-
 ---
 
 ⭐ **Desenvolvido como projeto de estudos em desenvolvimento web**
