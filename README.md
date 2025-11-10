@@ -36,7 +36,7 @@ Acesse o projeto online: **[https://kessleru.github.io/Bikcraft-Web/](https://ke
   - ![#DEDEDE](https://img.shields.io/badge/-%23DEDEDE-DEDEDE?style=flat-square)
   - ![#CCCCCC](https://img.shields.io/badge/-%23CCCCCC-CCCCCC?style=flat-square)
   - ![#B2B2B2](https://img.shields.io/badge/-%23B2B2B2-B2B2B2?style=flat-square)
-  - ![#9C9C9C](https://img.shields.io/badge/-%23009C9C9C-9C9C9C?style=flat-square)
+  - ![#9C9C9C](https://img.shields.io/badge/-%239C9C9C-9C9C9C?style=flat-square)
   - ![#717171](https://img.shields.io/badge/-%23717171-717171?style=flat-square)
   - ![#595959](https://img.shields.io/badge/-%23595959-595959?style=flat-square)
   - ![#404040](https://img.shields.io/badge/-%23404040-404040?style=flat-square)
