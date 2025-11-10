@@ -28,10 +28,22 @@ Acesse o projeto online: **[https://kessleru.github.io/Bikcraft-Web/](https://ke
 
 ### Cores
 
-- **Primária**: `#FFBB00` (Amarelo Bikcraft)
-- **Secundária**: `#000000`, `#111111` (Preto e cinza escuro)
+- **Primária**: ![#FFBB00](https://via.placeholder.com/20/FFBB00/FFBB00?text=+) `#FFBB00` (Amarelo Bikcraft)
+- **Secundária**: ![#000000](https://via.placeholder.com/20/000000/000000?text=+) `#000000`, ![#111111](https://via.placeholder.com/20/111111/111111?text=+) `#111111` (Preto e cinza escuro)
 - **Neutras**: Escala de cinzas (12 variações)
-- **Gradiente**: `#FFBF00 → #F2A50C`
+  - ![#F7F7F7](https://via.placeholder.com/20/F7F7F7/F7F7F7?text=+) `#F7F7F7`
+  - ![#EDEDED](https://via.placeholder.com/20/EDEDED/EDEDED?text=+) `#EDEDED`
+  - ![#DEDEDE](https://via.placeholder.com/20/DEDEDE/DEDEDE?text=+) `#DEDEDE`
+  - ![#CCCCCC](https://via.placeholder.com/20/CCCCCC/CCCCCC?text=+) `#CCCCCC`
+  - ![#B2B2B2](https://via.placeholder.com/20/B2B2B2/B2B2B2?text=+) `#B2B2B2`
+  - ![#9C9C9C](https://via.placeholder.com/20/9C9C9C/9C9C9C?text=+) `#9C9C9C`
+  - ![#717171](https://via.placeholder.com/20/717171/717171?text=+) `#717171`
+  - ![#595959](https://via.placeholder.com/20/595959/595959?text=+) `#595959`
+  - ![#404040](https://via.placeholder.com/20/404040/404040?text=+) `#404040`
+  - ![#2E2E2E](https://via.placeholder.com/20/2E2E2E/2E2E2E?text=+) `#2E2E2E`
+  - ![#111111](https://via.placeholder.com/20/111111/111111?text=+) `#111111`
+  - ![#000000](https://via.placeholder.com/20/000000/000000?text=+) `#000000`
+- **Gradiente**: ![#FFBF00](https://via.placeholder.com/20/FFBF00/FFBF00?text=+) `#FFBF00` → ![#F2A50C](https://via.placeholder.com/20/F2A50C/F2A50C?text=+) `#F2A50C`
 
 ### Tipografia
 
@@ -48,14 +60,6 @@ Acesse o projeto online: **[https://kessleru.github.io/Bikcraft-Web/](https://ke
 - **Espaçamento**: Sistema baseado em múltiplos de 20px
 
 ## ⚡ Otimizações de Performance
-
-### Core Web Vitals Implementados
-
-| Métrica | Otimização                             | Impacto                           |
-| ------- | -------------------------------------- | --------------------------------- |
-| **LCP** | `fetchpriority="high"` em imagens hero | ⚡ Carregamento prioritário       |
-| **CLS** | `width` e `height` em todas as imagens | 🎯 Layout estável (zero shift)    |
-| **FID** | CSS minificado (19KB)                  | 🚀 Menos bloqueio de renderização |
 
 ### Técnicas Aplicadas
 
@@ -76,12 +80,6 @@ Acesse o projeto online: **[https://kessleru.github.io/Bikcraft-Web/](https://ke
 - `<link rel="preload">` para CSS crítico
 - `<link rel="preconnect">` para Google Fonts
 - DNS-prefetch reduz latência em 200-300ms
-
-✅ **Otimização de Fontes**
-
-- Preconnect para `fonts.googleapis.com`
-- Preconnect para `fonts.gstatic.com`
-- Font-display: swap implícito
 
 ⭐ **Desenvolvido como projeto de estudos em desenvolvimento web**
 
