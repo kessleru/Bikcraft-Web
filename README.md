@@ -81,6 +81,8 @@ Acesse o projeto online: **[https://kessleru.github.io/Bikcraft-Web/](https://ke
 - `<link rel="preconnect">` para Google Fonts
 - DNS-prefetch reduz latência em 200-300ms
 
+---
+
 ⭐ **Desenvolvido como projeto de estudos em desenvolvimento web**
 
 [![GitHub](https://img.shields.io/badge/GitHub-kessleru-181717?logo=github)](https://github.com/kessleru)
