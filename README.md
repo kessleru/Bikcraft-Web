@@ -59,6 +59,15 @@ Acesse o projeto online: **[https://kessleru.github.io/Bikcraft-Web/](https://ke
 - **Breakpoints**: Mobile-first com media queries
 - **Espaçamento**: Sistema baseado em múltiplos de 20px
 
+## 💻 JavaScript
+
+### Funcionalidades Implementadas
+
+- **Menu de Navegação Ativo**: Destaca automaticamente o link da página atual no menu
+- **Orçamento Inteligente**: Pré-seleciona o produto quando vindo de outras páginas via URL
+- **FAQ Interativo**: Perguntas e respostas com accordion expansível
+- **Galeria de Imagens**: Clique nas imagens para alternar a visualização principal (desktop)
+
 ## ⚡ Otimizações de Performance
 
 O projeto implementa diversas técnicas modernas de otimização para garantir carregamento rápido e excelente experiência do usuário:
