@@ -36,6 +36,11 @@ E-commerce completo para venda de bicicletas elétricas customizadas, desenvolvi
 - Accordion FAQ com transições suaves
 
 ### ⚙️ JavaScript
+- **Arquitetura Modular**: ES6 Modules para organização e manutenibilidade
+  - `galeria.js` - Sistema de galeria de imagens interativa
+  - `itens-orcamento.js` - Gerenciamento do formulário de orçamento
+  - `links-menu.js` - Controle de menu ativo
+  - `perguntas-frequentes.js` - Sistema de accordion FAQ
 - **Menu ativo**: Destaque automático da página atual
 - **Orçamento inteligente**: Pré-seleção via parâmetros de URL (`?tipo=bikcraft&produto=nimbus`)
 - **FAQ interativo**: Toggle com ARIA attributes para acessibilidade
@@ -89,7 +94,10 @@ CSS Grid · Flexbox · Container 1200px · Espaçamento em múltiplos de 20px
 
 - **HTML5**: Semântico com ARIA attributes
 - **CSS3**: Grid, Flexbox, Custom Properties, Gradients
-- **JavaScript ES6+**: Vanilla JS sem frameworks
+- **JavaScript ES6+**:
+  - Vanilla JS sem frameworks
+  - ES6 Modules (`import`/`export`) para código modular
+  - Separação de responsabilidades por módulos
 - **SVG**: Ícones e elementos gráficos escaláveis
 - **Git**: Controle de versão com commits semânticos
 
@@ -125,6 +133,7 @@ CSS Grid · Flexbox · Container 1200px · Espaçamento em múltiplos de 20px
 
 Este projeto demonstra:
 - Arquitetura CSS escalável e modular
+- **JavaScript modular com ES6 Modules** para melhor organização do código
 - Otimizações de performance web (Core Web Vitals)
 - JavaScript vanilla para interatividade
 - Design responsivo mobile-first
