@@ -7,9 +7,6 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-**🌐 [Ver Demo ao Vivo](https://kessleru.github.io/Bikcraft-Web/)**
-
----
 
 ## 📋 Sobre o Projeto
 
@@ -24,7 +21,6 @@ E-commerce completo para venda de bicicletas elétricas customizadas, desenvolvi
 - **Orçamento**: Formulário dinâmico com pré-seleção via URL
 - **Contato**: Formulário, informações e localização das lojas
 
----
 
 ## ✨ Funcionalidades
 
@@ -60,8 +56,6 @@ Escala de 12 tons de cinza
 **Layout**
 CSS Grid · Flexbox · Container 1200px · Espaçamento em múltiplos de 20px
 
----
-
 ## ⚡ Performance
 
 ### 🖼️ Imagens
@@ -88,7 +82,6 @@ CSS Grid · Flexbox · Container 1200px · Espaçamento em múltiplos de 20px
 ✅ Cumulative Layout Shift (CLS) minimizado
 ✅ Score alto no PageSpeed Insights
 
----
 
 ## 🛠️ Tecnologias
 
@@ -101,7 +94,6 @@ CSS Grid · Flexbox · Container 1200px · Espaçamento em múltiplos de 20px
 - **SVG**: Ícones e elementos gráficos escaláveis
 - **Git**: Controle de versão com commits semânticos
 
----
 
 ## ♿ Acessibilidade
 
@@ -111,7 +103,6 @@ CSS Grid · Flexbox · Container 1200px · Espaçamento em múltiplos de 20px
 - Contraste de cores adequado (WCAG)
 - Navegação por teclado funcional
 
----
 
 ## 📱 Responsividade
 
@@ -127,7 +118,6 @@ CSS Grid · Flexbox · Container 1200px · Espaçamento em múltiplos de 20px
 - Imagens adaptativas com `srcset` e `<picture>`
 - Typography scale que adapta em cada breakpoint
 
----
 
 ## 📚 Aprendizados
 
@@ -141,7 +131,6 @@ Este projeto demonstra:
 - Boas práticas de SEO
 - Git workflow com commits semânticos
 
----
 
 <div align="center">
 
