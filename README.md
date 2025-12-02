@@ -1,7 +1,7 @@
 # 🚴 Bikcraft
 
 <p align="center">
-  <img src="./img/mockup.jpg" alt="Bikcraft Preview" width="800">
+  <img src="./img/mockup.jpg" alt="Bikcraft Preview" width="600">
 </p>
 
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://kessleru.github.io/Bikcraft-Web/)
