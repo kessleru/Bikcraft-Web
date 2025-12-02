@@ -1,12 +1,13 @@
 # 🚴 Bikcraft
 
-**Site completo de bicicletas elétricas personalizadas** com foco em performance, acessibilidade e design moderno.
+<p align="center">
+  <img src="img/fotos/bikcraft-mockup.png" alt="Bikcraft Preview" width="800">
+</p>
 
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://kessleru.github.io/Bikcraft-Web/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 
 ## 📋 Sobre o Projeto
 
@@ -21,10 +22,10 @@ E-commerce completo para venda de bicicletas elétricas customizadas, desenvolvi
 - **Orçamento**: Formulário dinâmico com pré-seleção via URL
 - **Contato**: Formulário, informações e localização das lojas
 
-
 ## ✨ Funcionalidades
 
 ### 🎨 Interface
+
 - Design responsivo mobile-first (320px+)
 - Animações suaves de entrada com stagger
 - Menu de navegação com indicador da página atual
@@ -32,6 +33,7 @@ E-commerce completo para venda de bicicletas elétricas customizadas, desenvolvi
 - Accordion FAQ com transições suaves
 
 ### ⚙️ JavaScript
+
 - **Arquitetura Modular**: ES6 Modules para organização e manutenibilidade
   - `galeria.js` - Sistema de galeria de imagens interativa
   - `itens-orcamento.js` - Gerenciamento do formulário de orçamento
@@ -59,29 +61,32 @@ CSS Grid · Flexbox · Container 1200px · Espaçamento em múltiplos de 20px
 ## ⚡ Performance
 
 ### 🖼️ Imagens
+
 - Lazy loading (`loading="lazy"`) para imagens fora da viewport
 - Decodificação assíncrona (`decoding="async"`)
 - Priority hint na imagem hero (`fetchpriority="high"`)
 - Picture element com múltiplas resoluções para responsividade
 
 ### 🔤 Fontes
+
 - Carregamento assíncrono do Google Fonts
 - DNS prefetch (`preconnect`) para reduzir latência
 - Media print trick para evitar bloqueio de renderização
 - Fallback com `<noscript>` para usuários sem JavaScript
 
 ### 📦 CSS
+
 - **Minificação**: `style.min.css` com remoção de espaços e comentários
 - **Arquitetura modular**: 25 arquivos CSS organizados por seção
 - **Utility-first**: Classes reutilizáveis para cores, tipografia e componentes
 - **CSS Variables**: Custom properties para temas consistentes
 
 ### 🎯 Resultados
+
 ✅ First Contentful Paint (FCP) otimizado
 ✅ Largest Contentful Paint (LCP) reduzido
 ✅ Cumulative Layout Shift (CLS) minimizado
 ✅ Score alto no PageSpeed Insights
-
 
 ## 🛠️ Tecnologias
 
@@ -94,7 +99,6 @@ CSS Grid · Flexbox · Container 1200px · Espaçamento em múltiplos de 20px
 - **SVG**: Ícones e elementos gráficos escaláveis
 - **Git**: Controle de versão com commits semânticos
 
-
 ## ♿ Acessibilidade
 
 - Estrutura semântica (`<header>`, `<main>`, `<nav>`, `<footer>`)
@@ -103,25 +107,26 @@ CSS Grid · Flexbox · Container 1200px · Espaçamento em múltiplos de 20px
 - Contraste de cores adequado (WCAG)
 - Navegação por teclado funcional
 
-
 ## 📱 Responsividade
 
 **Breakpoints**
+
 - Mobile: 320px - 599px
 - Tablet: 600px - 799px
 - Desktop: 800px - 1199px
 - Large Desktop: 1200px+
 
 **Técnicas**
+
 - Mobile-first approach
 - CSS Grid responsivo com `fr` units
 - Imagens adaptativas com `srcset` e `<picture>`
 - Typography scale que adapta em cada breakpoint
 
-
 ## 📚 Aprendizados
 
 Este projeto demonstra:
+
 - Arquitetura CSS escalável e modular
 - **JavaScript modular com ES6 Modules** para melhor organização do código
 - Otimizações de performance web (Core Web Vitals)
@@ -130,7 +135,6 @@ Este projeto demonstra:
 - Acessibilidade web (WCAG)
 - Boas práticas de SEO
 - Git workflow com commits semânticos
-
 
 <div align="center">
 
