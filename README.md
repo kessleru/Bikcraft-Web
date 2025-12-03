@@ -4,7 +4,7 @@
   <img src="./img/mockup.jpg" alt="Bikcraft Preview" width="800">
 </p>
 
-[![Demo](https://img.shields.io/badge/🌐-Ver_Site-181717)](https://kessleru.github.io/Bikcraft-Web/)
+[![Demo](https://img.shields.io/badge/🌐-Ver_Site-585858)](https://kessleru.github.io/Bikcraft-Web/)
 [![HTML5](https://img.shields.io/badge/HTML5-181717?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-181717?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-181717?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
