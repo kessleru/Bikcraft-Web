@@ -1,7 +1,7 @@
 # Bikcraft
 
 <p align="center">
-  <img src="./img/mockup.jpg" alt="Bikcraft Preview" width="800">
+  <img src="./img/mockup.jpg" alt="Bikcraft Preview" width="1000">
 </p>
 
 [![Demo](https://img.shields.io/badge/🌐-Ver_Site-585858)](https://kessleru.github.io/Bikcraft-Web/)
